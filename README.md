@@ -2,14 +2,13 @@
 
 A curated list of awesome advice, tips and resources to prepare for PhD/grad school. Inspired by awesome [@lexing](https://twitter.com/lexing) & [@jeanqasaur](https://twitter.com/jeanqasaur).
 
-If you want to contribute to this list (please DO), send a pull request or contact me [@alirezasmr](https://twitter.com/alirezasmr).
+If you want to contribute to this list (PLEASE DO), read the [contribution guidelines](https://github.com/alirezasmr/awesome-phd/blob/master/contributing.md), send a pull request or contact me [@alirezasmr](https://twitter.com/alirezasmr).
 
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
 
 - [Pursuing a PhD / grad school](#phd)
-- [Academic life](#academic)
 - [Research, and the research career](#research)
     - [Advice & tips](#research-advice)
     - [Publishing and presenting](#research-publishing-presenting)
@@ -21,29 +20,52 @@ If you want to contribute to this list (please DO), send a pull request or conta
 <a name="phd" />
 ## Pursuing a PhD / grad school
 
-* [Awesome PhD](https://github.com/alirezasmr/awesome-phd)
-
-<a name="academic" />
-## Academic life
-
-* [Awesome PhD](https://github.com/alirezasmr/awesome-phd)
+* [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
+* [Why Am I in Graduate School?](http://cra-ccc.org/lifeofacsgs/why-am-i-in-graduate-school)
+* [Do You Need a PhD?](http://matt-welsh.blogspot.my/2012/03/do-you-need-phd.html)
+* [So, You Want to Go to Grad School?](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html)
+* [Reasons to Pursue a Ph.D.](http://jxyzabc.blogspot.my/2011/12/reasons-to-pursue-phd.html)
+* [Notes on the PhD Degree](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html)
+* [The Life of an Academic, Explained](http://jxyzabc.blogspot.my/2012/02/life-of-academic-explained.html)
+* [How Science Really Works](http://jxyzabc.blogspot.my/2013/01/how-science-really-works.html)
+* [What My PhD Was Like](http://jxyzabc.blogspot.my/2016/02/my-phd-abridged.html)
+* [10 Easy Ways to Fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/)
+* [Advice for Students and Junior Researchers](http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)
+* [Choosing the Right Grad School](http://www.zephoria.org/thoughts/archives/2009/10/28/choosing_the_ri.html)
+* [Deciding to Apply](http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html)
+* [Some Notes on Picking Grad Schools/Advisors](http://jxyzabc.blogspot.my/2009/02/some-notes-on-picking-grad.html)
+* [FAQ: Applying to Graduate School for Computer Science](http://jxyzabc.blogspot.my/2012/10/faq-applying-to-graduate-school-for.html)
 
 <a name="research" />
 ## Research, and the research career
 
 <a name="research-advice" />
 #### Advice & tips
-* [Awesome PhD](https://github.com/alirezasmr/awesome-phd)
+* [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+* [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/research.pdf)
+* [Software Is Not Science](http://matt-welsh.blogspot.my/2011/11/software-is-not-science.html)
+* [The Ph.D. Grind - A Ph.D. Student Memoir](http://www.pgbovine.net/PhD-memoir.htm)
+* [The PhD Grind, and Why Research Isn't Like Sex](http://blog.regehr.org/archives/743)
+* [Useful Thoughts About Research](http://www.eecs.harvard.edu/htk/phdadvice/)
+* [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+* [Advice on Reading Academic Papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+* [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 
 <a name="research-publishing-presenting" />
 #### Publishing and presenting
-* [Awesome PhD](https://github.com/alirezasmr/awesome-phd)
+* [How to Write a Paper](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf)
+* [Poster Perfect](http://www.the-scientist.com/?articles.view/articleNo/31071/title/Poster-Perfect/)
+* [The Elements of Style](http://www.bartleby.com/141/)
+* [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
+* [Coping With Issues of Sloppiness and Carelessness in Writing](http://asegrp.blogspot.my/2011/06/coping-with-issues-of-sloppiness-and.html)
 
 <a name="research-writing-tools" />
 #### Writing tools
-* [Awesome PhD](https://github.com/alirezasmr/awesome-phd)
+* [The Blue Book of Grammar](http://www.grammarbook.com/)
+* [ShareLaTeX](https://www.sharelatex.com/)
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
 
 <a name="general" />
 ## Miscellaneous
 
-* [Awesome PhD](https://github.com/alirezasmr/awesome-phd)
+* [Awesome Research Tools](https://github.com/emptymalei/awesome-research)

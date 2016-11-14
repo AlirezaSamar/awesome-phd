@@ -35,6 +35,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [Deciding to Apply](http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html)
 * [Some Notes on Picking Grad Schools/Advisors](http://jxyzabc.blogspot.my/2009/02/some-notes-on-picking-grad.html)
 * [FAQ: Applying to Graduate School for Computer Science](http://jxyzabc.blogspot.my/2012/10/faq-applying-to-graduate-school-for.html)
+* [Realistic Expectations Keep You on the Path to a PhD](https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/2015739.article)
 
 <a name="research" />
 ## Research, and the research career
@@ -50,6 +51,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on Reading Academic Papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
+* [14 Essential PhD Questions Answered](https://www.timeshighereducation.com/news/14-essential-phd-questions-answered/2006473.article?page=0%2C5)
 
 <a name="research-publishing-presenting" />
 #### Publishing and presenting

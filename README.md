@@ -21,6 +21,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 ## Pursuing a PhD / grad school
 
 * [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
+* [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 * [Why Am I in Graduate School?](http://cra-ccc.org/lifeofacsgs/why-am-i-in-graduate-school)
 * [Do You Need a PhD?](http://matt-welsh.blogspot.my/2012/03/do-you-need-phd.html)
 * [So, You Want to Go to Grad School?](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html)

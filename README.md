@@ -63,6 +63,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [The Elements of Style](http://www.bartleby.com/141/)
 * [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
 * [Coping With Issues of Sloppiness and Carelessness in Writing](http://asegrp.blogspot.my/2011/06/coping-with-issues-of-sloppiness-and.html)
+* [Steps to Write a Survey Paper](http://researchpedia.info/steps-to-write-a-survey-paper/)
 
 <a name="research-writing-tools" />
 #### Writing tools

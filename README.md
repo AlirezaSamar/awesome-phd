@@ -64,6 +64,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
 * [Coping With Issues of Sloppiness and Carelessness in Writing](http://asegrp.blogspot.my/2011/06/coping-with-issues-of-sloppiness-and.html)
 * [Steps to Write a Survey Paper](http://researchpedia.info/steps-to-write-a-survey-paper/)
+* [The Literature Review: A Few Tips on Conducting It](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review)
 
 <a name="research-writing-tools" />
 #### Writing tools

@@ -55,6 +55,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 * [14 Essential PhD Questions Answered](https://www.timeshighereducation.com/news/14-essential-phd-questions-answered/2006473.article?page=0%2C5)
 * [Writing Tips for Ph.D. Students](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
+* [How to Write a PhD Abstract: An Interactive Guide to the Purpose, Parts & Process](https://crq.adobeconnect.com/abstract/)
 
 <a name="research-publishing-presenting" />
 #### Publishing and presenting

@@ -39,6 +39,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [Realistic Expectations Keep You on the Path to a PhD](https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/2015739.article)
 * [Some Modest Advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students)
 * [Advice for New Ph.D. Students](http://pgbovine.net/early-stage-PhD-advice.htm)
+* [A Collection of Advices for Authoring a PhD or Academic Book](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction)
 
 <a name="research" />
 ## Research, and the research career

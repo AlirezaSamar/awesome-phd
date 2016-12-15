@@ -58,6 +58,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [14 Essential PhD Questions Answered](https://www.timeshighereducation.com/news/14-essential-phd-questions-answered/2006473.article?page=0%2C5)
 * [Writing Tips for Ph.D. Students](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
 * [How to Write a PhD Abstract: An Interactive Guide to the Purpose, Parts & Process](https://crq.adobeconnect.com/abstract/)
+* [How to Prepare a Manuscript for International Journals](https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript)
 
 <a name="research-publishing-presenting" />
 #### Publishing and presenting

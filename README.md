@@ -40,6 +40,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [Some Modest Advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students)
 * [Advice for New Ph.D. Students](http://pgbovine.net/early-stage-PhD-advice.htm)
 * [A Collection of Advices for Authoring a PhD or Academic Book](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction)
+* [I Graduated From Harvard and MIT — Here's the Smartest Thing I Did on My Applications](http://www.businessinsider.com/make-college-application-stand-out-2016-12?IR=T&r=US&IR=T)
 
 <a name="research" />
 ## Research, and the research career

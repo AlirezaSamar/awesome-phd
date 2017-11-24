@@ -18,7 +18,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 <!-- /MarkdownTOC -->
 
 <a name="phd" />
-## Pursuing a PhD / grad school
+## Pursuing a PhD / grad school guidance
 
 * [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)

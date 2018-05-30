@@ -8,7 +8,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Pursuing a PhD / grad school](#pursuing-a-phd--grad-school-guidance)
+- [Pursuing a PhD / grad school guidance](#pursuing-a-phd--grad-school-guidance)
 - [Research, and the research career](#research-and-the-research-career)
     - [Advice & tips](#advice--tips)
     - [Publishing and presenting](#publishing-and-presenting)

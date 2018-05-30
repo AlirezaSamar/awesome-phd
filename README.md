@@ -8,16 +8,14 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Pursuing a PhD / grad school](#phd)
-- [Research, and the research career](#research)
-    - [Advice & tips](#research-advice)
-    - [Publishing and presenting](#research-publishing-presenting)
-    - [Writing tools](#research-writing-tools)
-- [Miscellaneous](#general)
+- [Pursuing a PhD / grad school](#pursuing-a-phd--grad-school)
+- [Research, and the research career](#research-and-the-research-career)
+    - [Advice & tips](#advice--tips)
+    - [Publishing and presenting](#publishing-and-presenting)
+    - [Writing tools](#writing-tools)
+- [Miscellaneous](#miscellaneous)
 
 <!-- /MarkdownTOC -->
-
-<a name="phd" />
 ## Pursuing a PhD / grad school guidance
 
 * [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
@@ -43,11 +41,9 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [I Graduated From Harvard and MIT — Here's the Smartest Thing I Did on My Applications](http://www.businessinsider.com/make-college-application-stand-out-2016-12?IR=T&r=US&IR=T)
 * [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html)
 
-<a name="research" />
 ## Research, and the research career
 
-<a name="research-advice" />
-#### Advice & tips
+### Advice & tips
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/research.pdf)
 * [Software Is Not Science](http://matt-welsh.blogspot.my/2011/11/software-is-not-science.html)
@@ -62,8 +58,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [How to Write a PhD Abstract: An Interactive Guide to the Purpose, Parts & Process](https://crq.adobeconnect.com/abstract/)
 * [How to Prepare a Manuscript for International Journals](https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript)
 
-<a name="research-publishing-presenting" />
-#### Publishing and presenting
+### Publishing and presenting
 * [How to Write a Paper](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf)
 * [Poster Perfect](http://www.the-scientist.com/?articles.view/articleNo/31071/title/Poster-Perfect/)
 * [The Elements of Style](http://www.bartleby.com/141/)
@@ -72,13 +67,12 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [Steps to Write a Survey Paper](http://researchpedia.info/steps-to-write-a-survey-paper/)
 * [The Literature Review: A Few Tips on Conducting It](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review)
 
-<a name="research-writing-tools" />
-#### Writing tools
+### Writing tools
 * [The Blue Book of Grammar](http://www.grammarbook.com/)
 * [ShareLaTeX](https://www.sharelatex.com/)
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
 
-<a name="general" />
+
 ## Miscellaneous
 
 * [Awesome Research Tools](https://github.com/emptymalei/awesome-research)

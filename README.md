@@ -71,6 +71,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [The Blue Book of Grammar](http://www.grammarbook.com/)
 * [ShareLaTeX](https://www.sharelatex.com/)
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
+* [Phraseological assistant](https://www.phrasebank.manchester.ac.uk/)
 
 
 ## Miscellaneous

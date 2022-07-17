@@ -13,7 +13,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
   - [Advice & tips](#advice--tips)
   - [Publishing and presenting](#publishing-and-presenting)
   - [Writing tools](#writing-tools)
-  - [Research career](#writing-tools)
+  - [Research career](#research-career-after-phd-life)
 - [Miscellaneous](#miscellaneous)
 
 <!-- /MarkdownTOC -->
